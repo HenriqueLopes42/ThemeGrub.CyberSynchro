@@ -9,7 +9,7 @@
 
 [Automation cmds]
 
-git clone https://github.com/moderncraft1234/grubTheme /boot/grub/themes/grubTheme
+- git clone https://github.com/moderncraft1234/grubTheme /boot/grub/themes/grubTheme
 
 [after config]
 
