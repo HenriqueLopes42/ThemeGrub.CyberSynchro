@@ -3,7 +3,7 @@
 [file location of theme conf]
 
 - /etc/default/grub
-[themes folder and configuratio entry for theme]
+[themes folder and configuration entry for theme]
 
 - GRUB_THEME=/boot/grub/themes/grubTheme/theme.txt
 
